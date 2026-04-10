@@ -1,0 +1,24 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1775812619
+Rocks.png::CompressedTexture2D::7918657983172286826::1775812449::1775812469::1::::<><><>0<>0<>58eb2085cedefa5fa3157c8c38cba7ae<>res://.godot/imported/Rocks.png-a55633ad1d243f2d3dec9f00f1a907c0.ctex::
+test_map.tscn::PackedScene::5184032543641984802::1775812468::0::1::::<><><>0<>0<><>::uid://1grcodmbn5bi::::res://Water_tiles.png<>uid://ca8ejknjxmgym::::res://Floors_Tiles.png<>uid://brlnp1pn67dan::::res://Size_04.png<>uid://c4ie3g5c5gqyq::::res://Vegetation.png<>uid://dk24e05vd4rk1::::res://Rocks.png
+::res://assets/::1775812218
+char_spritesheet.png::CompressedTexture2D::7119830691385934461::1775812215::1775812215::1::::<><><>0<>0<>5c0220685b82e3680fe1f3c8ae7b4745<>res://.godot/imported/char_spritesheet.png-00915c31a17f2cba0aa3a2e1b6a5762a.ctex::
+Overworld_Tileset.png::CompressedTexture2D::7966080457031610200::1775812215::1775812215::1::::<><><>0<>0<>f429c9f02b1f4857fc249040317d3fba<>res://.godot/imported/Overworld_Tileset.png-c6be078c561a40090f42cd7b514b6866.ctex::
+Phantom Bow.png::CompressedTexture2D::2718100564887443041::1775812215::1775812215::1::::<><><>0<>0<>0d2e1941d80054b64eeeee6573203aa3<>res://.godot/imported/Phantom Bow.png-ad4f72003fa48d4d34e296c6c51dc580.ctex::
+::res://charecters/::1775812291
+character_body_2d.tscn::PackedScene::-1::1775812291::0::1::::<><><>0<>0<><>::
+::res://maps/::1775812148
+Floors_Tiles.png::CompressedTexture2D::4841225319142477444::1775811481::1775812148::1::::<><><>0<>0<>7dac668d39f1c5cfd93f4452898f45d4<>res://.godot/imported/Floors_Tiles.png-b65b6a4b8f1b0fc84de60d5c672b504f.ctex::
+icon.svg::CompressedTexture2D::5514411919179124180::1775811481::1775812148::1::::<><><>0<>0<>f6da2527a17b25457f09493cb77d2fb2<>res://.godot/imported/icon.svg-f27594043c64bddd96af6889ce97bb5d.ctex::
+README.md::TextFile::-1::1775811481::0::1::::<><><>0<>0<><>::
+Size_04.png::CompressedTexture2D::3603156678061364713::1775811481::1775812148::1::::<><><>0<>0<>e3df6e662917bf11da1f19501ecb8740<>res://.godot/imported/Size_04.png-c852c7b8941e12656e6f3d17875815d9.ctex::
+test_map.tscn::PackedScene::83960599810851762::1775812148::0::1::::<><><>0<>0<><>::uid://1grcodmbn5bi::::res://maps/Water_tiles.png<>uid://ca8ejknjxmgym::::res://maps/Floors_Tiles.png<>uid://brlnp1pn67dan::::res://maps/Size_04.png
+Vegetation.png::CompressedTexture2D::6825126086737471824::1775811481::1775812148::1::::<><><>0<>0<>ac4a2ea94be968a764584dbd7a2394c7<>res://.godot/imported/Vegetation.png-47d2c2e7ffb934f8c5acffb5f36225fb.ctex::
+Water_tiles.png::CompressedTexture2D::1838332702086462682::1775811481::1775812148::1::::<><><>0<>0<>3152017a288bfc47b7b378a4691d5965<>res://.godot/imported/Water_tiles.png-2507756ed2cafcb9459ebb38338fc2bb.ctex::
+::res://retro remix/::1775811489
+::res://scene/::1775812325
+character_body_2d.tscn::PackedScene::-1::1775812325::0::1::::<><><>0<>0<><>::
+player.tscn::PackedScene::-1::1775812206::0::1::::<><><>0<>0<><>::
+::res://script/::1775812224
+character_body_2d.gd::GDScript::-1::1775812224::0::1::::<>CharacterBody2D<><>0<>0<><>::
