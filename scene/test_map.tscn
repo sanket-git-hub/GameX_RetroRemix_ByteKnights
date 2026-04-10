@@ -6,6 +6,7 @@
 [ext_resource type="Texture2D" uid="uid://c4ie3g5c5gqyq" path="res://map/Vegetation.png" id="4_7l83b"]
 [ext_resource type="Texture2D" uid="uid://dk24e05vd4rk1" path="res://map/Rocks.png" id="5_r885g"]
 [ext_resource type="PackedScene" uid="uid://coxxd0ihvfnxa" path="res://scene/character_body_2d.tscn" id="6_4io6j"]
+[ext_resource type="PackedScene" uid="uid://ds6gsmky3tcco" path="res://scene/slime.tscn" id="7_h4pk7"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_4wuf8"]
 texture = ExtResource("1_1tyyu")
@@ -1879,7 +1880,11 @@ texture = ExtResource("5_r885g")
 [sub_resource type="TileSet" id="TileSet_gqtbx"]
 sources/0 = SubResource("TileSetAtlasSource_ssfg1")
 
-[node name="TestMap" type="Node2D" unique_id=252074772]
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_h4pk7"]
+size = Vector2(20, 221)
+
+[node name="rout_right" type="Node2D" unique_id=252074772]
+position = Vector2(1, -5)
 
 [node name="water" type="TileMapLayer" parent="." unique_id=543586794]
 tile_set = SubResource("TileSet_s02eq")
@@ -1917,3 +1922,10 @@ tile_set = SubResource("TileSet_gqtbx")
 position = Vector2(-13, -18)
 collision_layer = 2
 collision_mask = 2
+
+[node name="Slime" parent="." unique_id=1688936202 instance=ExtResource("7_h4pk7")]
+position = Vector2(595, -132)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=333805593]
+position = Vector2(575, -184)
+shape = SubResource("RectangleShape2D_h4pk7")

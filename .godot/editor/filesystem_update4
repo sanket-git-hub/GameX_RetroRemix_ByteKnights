@@ -1,0 +1,4 @@
+res://scene/slime.tscn
+res://scripts/slime.gd
+res://scene/test_map.tscn
+res://scene/character_body_2d.tscn
